@@ -1,0 +1,30 @@
+{
+  "name": "bootstrap3-dialog",
+  "version": "0.0.1",
+  "homepage": "https://github.com/romanvbabenko/bootstrap3-dialog",
+  "authors": [
+    "nakupanda"
+  ],
+  "dependencies": {
+    "jquery": ">=1.8.3",
+    "bootstrap": ">= 3.0"
+  },
+  "description": "Make use of Twitter Bootstrap's modal more monkey-friendly",
+  "main": "bootstrap-dialog.js",
+  "moduleType": [
+    "node"
+  ],
+  "keywords": [
+    "bootstrap",
+    "dialog"
+  ],
+  "license": "MIT",
+  "private": false,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
